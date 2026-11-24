@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vod-1795495602606",
+    "title": "轉角就是櫻坂嗎？EP3",
+    "category": "電視冠番",
+    "subTag": "轉櫻",
+    "status": "第03集",
+    "year": "2026",
+    "cover": "https://tv-tokyo.imgix.net/txcms/media/pg/L/13/e4/1a7b7327fce6d1266c00eca995d5.jpg?auto=format,compress&w=820&h=462&fill=blur&fit=fill&dpr=2",
+    "desc": "",
+    "episodes": [
+      {
+        "name": "第03集",
+        "embed": "https://1drv.ms/v/c/5bcab4252eba489a/IQQUTqbDnCGRQqCl7Tj9JLSLAbXSA2l3Ni__Cm2qwPeCKUk?width=1920&height=1080"
+      }
+    ]
+  },
+  {
+    "id": "vod-1795454963764",
+    "title": "轉角就是櫻坂嗎？EP2",
+    "category": "電視冠番",
+    "subTag": "轉櫻",
+    "status": "第02集",
+    "year": "2026",
+    "cover": "https://tv-tokyo.imgix.net/txcms/media/pg/L/13/e4/1a7b7327fce6d1266c00eca995d5.jpg?auto=format,compress&w=820&h=462&fill=blur&fit=fill&dpr=2",
+    "desc": "",
+    "episodes": [
+      {
+        "name": "第02集",
+        "embed": "https://1drv.ms/v/c/5bcab4252eba489a/IQRxZiNBaYGOQKBTQg-L0cQGAXOYn-iSAc1ikd3CMUxXceM?width=1920&height=1080"
+      }
+    ]
+  },
+  {
+    "id": "vod-1795453785734",
+    "title": "轉角就是櫻坂嗎？EP1",
+    "category": "電視冠番",
+    "subTag": "轉櫻",
+    "status": "第1集",
+    "year": "2026",
+    "cover": "https://tv-tokyo.imgix.net/txcms/media/pg/L/13/e4/1a7b7327fce6d1266c00eca995d5.jpg?auto=format,compress&w=820&h=462&fill=blur&fit=fill&dpr=2",
+    "desc": "",
+    "episodes": [
+      {
+        "name": "第01集",
+        "embed": "https://1drv.ms/v/c/5bcab4252eba489a/IQQilSxsIeMgS6QHSiLen-i3AWA7yfvhHZZ-7U0MalVTsIM?width=1920&height=1080"
+      }
+    ]
+  },
+  {
+    "id": "vod-1795453245986",
+    "title": "轉角就是櫻坂嗎？合集",
+    "category": "電視冠番",
+    "subTag": "轉櫻",
+    "status": "全集",
+    "year": "2026",
+    "cover": "https://tv-tokyo.imgix.net/txcms/media/pg/L/13/e4/1a7b7327fce6d1266c00eca995d5.jpg?auto=format,compress&w=820&h=462&fill=blur&fit=fill&dpr=2",
+    "desc": "開始攀登全新坡道的「櫻坂46」冠名綜藝節目！\n2020年10月，團體名稱從「欅坂46」改名為「櫻坂46」。\n節目名稱也隨之更新，煥然一新地重新出發！\n這是一檔她們為了更上一層樓，挑戰各式各樣企劃的綜藝節目。",
+    "episodes": [
+      {
+        "name": "第01集",
+        "embed": "https://1drv.ms/v/c/5bcab4252eba489a/IQQilSxsIeMgS6QHSiLen-i3AWA7yfvhHZZ-7U0MalVTsIM?width=1920&height=1080"
+      },
+      {
+        "name": "第02集",
+        "embed": "https://1drv.ms/v/c/5bcab4252eba489a/IQRxZiNBaYGOQKBTQg-L0cQGAXOYn-iSAc1ikd3CMUxXceM?width=1920&height=1080"
+      },
+      {
+        "name": "第03集",
+        "embed": "https://1drv.ms/v/c/5bcab4252eba489a/IQQUTqbDnCGRQqCl7Tj9JLSLAbXSA2l3Ni__Cm2qwPeCKUk?width=1920&height=1080"
+      }
+    ]
+  }
+]
